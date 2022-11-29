@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Default
-- 🌱 I’m currently learning developing back-end
+- 👋 Hi, I’m @JoeArzo.
+- 🌱 I’m currently learning developing back-end and python development.
 
 <!---
 JoeArzo/JoeArzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
