@@ -1,4 +1,6 @@
-- 👋 Hi, this is a repository whit projects to i made to fun a practices programming
+# Beginning to FUN 
+
+-👋 Hi, this is my first repo.
 
 <!---
 JoeArzo/JoeArzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
