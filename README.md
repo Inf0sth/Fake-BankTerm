@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @JoeArzo.
-- 🌱 I’m currently learning developing back-end and python development.
+- 👋 Hi, this is a repository whit projects to i made to fun a practices programming
 
 <!---
 JoeArzo/JoeArzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
