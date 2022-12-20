@@ -1,4 +1,4 @@
-# Beginning to FUN 
+# Fake - BankTerm
 
 -👋 Hi, this is my first repo.
 
